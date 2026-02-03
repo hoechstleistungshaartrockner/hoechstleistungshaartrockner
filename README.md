@@ -1,4 +1,12 @@
-## Hi there 👋
+## About me
+
+![Banner](./banner.png)
+
+![](https://komarev.com/ghpvc/?username=hoechstleistungshaartrockner&color=green&style=flat)
+
+I am a doctoral researcher with a passion for software development. I enjoy creating useful tools and automated workflows in all kinds of areas.
+
+#
 
 <!--
 **hoechstleistungshaartrockner/hoechstleistungshaartrockner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
